@@ -10,7 +10,7 @@
 
 ### Create Product <a name="createProduct"></a>
 
-<img src="C:\DEV\Bijan\practice\microservice\microservice-in28minutes\product-service\images\createProductPostman.png"/>
+<img src="images\createProductPostman.png"/>
 
 #### Request body:
 
@@ -112,7 +112,7 @@ spring.data.mongodb.uri=mongodb://localhost:27017/product-service
 ### Get all products <a name="getAllProducts"></a>
 
 
-<img src="C:\DEV\Bijan\practice\microservice\microservice-in28minutes\product-service\images\getAllProductsPostman.png"/>
+<img src="images\getAllProductsPostman.png"/>
 
 
 #### Service
