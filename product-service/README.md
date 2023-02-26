@@ -8,6 +8,8 @@
 
 ## Product service <a name="introduction"></a>
 
+<img src="images\productServiceDiagram.png"/>
+
 ### Create Product <a name="createProduct"></a>
 
 <img src="images\createProductPostman.png"/>
